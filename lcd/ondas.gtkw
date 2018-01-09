@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Sun Dec 10 04:19:45 2017
+[*]
+[dumpfile] "/home/fabian/ldl_13_cpu4instruction/Practica04/cpu_proyectos_hectorfabianzacategalicia2153035791/lcd/tb_lcd.vcd"
+[dumpfile_mtime] "Sun Dec 10 04:18:53 2017"
+[dumpfile_size] 1126
+[savefile] "/home/fabian/ldl_13_cpu4instruction/Practica04/cpu_proyectos_hectorfabianzacategalicia2153035791/lcd/lcd.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-27.104795 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+clk
+@23
+numins[3:0]
+@22
+palabra[12:0]
+[pattern_trace] 1
+[pattern_trace] 0

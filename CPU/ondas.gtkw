@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Thu Jul 27 03:10:10 2017
+[*]
+[dumpfile] "/home/yaelrmz/Documentos/LAC/Practica04/tb_CPU.vcd"
+[dumpfile_mtime] "Thu Jul 27 03:09:52 2017"
+[dumpfile_size] 1119
+[savefile] "/home/yaelrmz/Documentos/LAC/Practica04/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-26.220221 36300000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 159
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+u0.clk
+u0.done
+@420
+u0.estado
+@22
+u0.inst[7:0]
+@23
+u0.reg[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
